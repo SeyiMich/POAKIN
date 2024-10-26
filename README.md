@@ -15,7 +15,7 @@ year-on-year changes, spatial and temporal distribution, and insights into the f
 - Step 2 : Loaded data into Power BI Desktop using appropriate connector, dataset is a csv file. Then opened it in Power Query window for the neccesary transformation.
 - Step 3 : Also by default, column profiling is based only on first 1000 rows, I changed the status bar option to "column profiling based on entire dataset" as I knew the dataset had over 50,000 rows.
 - Step 4 : In the power query editor & in view tab under Data preview section, I checked the "column distribution", "column quality" & "column profile" options in order to review the quality of the entries. 
-This helped me identify and eliminate dupplicate rows.
+This helped me identify and eliminate duplicate rows.
 - Step 5 : After removing duplicate data, I moved on to handling empty and null rows to ensure data integrity and completeness for further analyses.
 - Step 6 : A new custom column was created from the [Theft] column using the below expression:
 
@@ -28,7 +28,7 @@ This helped me identify and eliminate dupplicate rows.
 recommendation made is relevant to the current trends. 
 - Step 8 : After selecting the right data type for each column. This was then loaded to Power BI Desktop for further analyses, a Date table was also created and the appropriate data category was selected 
 for the main table's geographical data; longitude, latitiude, city, etc. 
-- Step 9 : Under the Location column there were more than 20 different unique values, so I grouped similar entries into a commoon heading as below:
+- Step 9 : Under the Location column there were more than 20 different unique values, so I grouped similar entries into a common heading as below:
 
 ![1](https://github.com/user-attachments/assets/3cafccfd-084b-4ea6-a4ac-a9638d94c556)
  
