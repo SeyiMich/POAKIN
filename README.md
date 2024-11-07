@@ -21,7 +21,8 @@ This helped me identify and eliminate duplicate rows.
 
             if [Theft] = "Theft Of Motor Vehicle" then 1 else 0
                     
-           This column was named 'Theft count', before this step the table had no empty or null value therefore this new column will have the value 1 in all its rows. 
+           This column was named 'Theft count', before this step the table had no empty or null value 
+              therefore this new column will have the value 1 in all its rows. 
            This step is critical to make an explicit measure for easy aggregation later on.
 
 - Step 7 : Then I used the "choose columns" option to select only the required fields and I limited the data to the past 5 years to ensure smotther running of the model and also ensure any 
@@ -69,8 +70,10 @@ reaching approximately 15,311 in 2025. This represents a significant increase fr
 
 ![6](https://github.com/user-attachments/assets/7b706001-a609-46c4-9743-36dd61ff2334)
 
-        Residential places emerged as the most common locations for auto theft, underscoring the vulnerability of homes and private properties.
-        Parking lots followed closely behind residential areas, suggesting the need for enhanced security measures in these spaces.
+        Residential places emerged as the most common locations for auto theft, 
+            underscoring the vulnerability of homes and private properties.
+        Parking lots followed closely behind residential areas, 
+            suggesting the need for enhanced security measures in these spaces.
 
 
 #### (f) Auto-theft cases by Location groups
@@ -89,7 +92,8 @@ The following inferences can be drawn from the report;
         d) Autotheft cases in 2022 = 9791
         e) Autotheft cases in 2023 = 12067 
         
-        There's an alarming increase in auto theft incidents. These trends suggest a critical need to understand the contributing factors 
+        There's an alarming increase in auto theft incidents. These trends 
+            suggests a critical need to understand the contributing factors 
 and implement effective countermeasures.
 
 #### [b] Daily Analysis 
@@ -101,7 +105,8 @@ and implement effective countermeasures.
         Car theft in 2025 is projected to be more than 2023 by over 25% 
 
 #### [d] Some other insights
-        Residential areas and parking lots had the most car thefts incidents, 50% more than all other location groups combined.
+        Residential areas and parking lots had the most car thefts incidents, 
+            50% more than all other location groups combined.
 
 
 ### Action Plans
