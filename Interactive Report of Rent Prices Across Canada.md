@@ -11,7 +11,7 @@ To support their mission, I conducted a comprehensive geospatial analysis, visua
 
 ### Data Processing Steps 
 
-- Step 1 : Assessed Kaggle for relevant dataset and found one by 
+- Step 1 : Searched through Kaggle for relevant dataset and found one by 
 https://www.kaggle.com/datasets/sergiygavrylov/25000-canadian-rental-housing-market-june-2024
 
 - Step 2 : Data was extracted into Power Query for further transformation. 
