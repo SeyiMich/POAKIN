@@ -35,23 +35,26 @@ Empty values in this column were renamed into "Not Specified", leaving us with o
 
 ![gr and Ung](https://github.com/user-attachments/assets/6233f742-d773-42ae-acac-521c4010b01f)
 
+        Availability Column (Ungrouped)                        Availability_Column_grouped 
 
+
+        
 - Step 10 : For the visual type an ArcGIS was chosen and poplulated with the necessary Long. and Lat. data, while setting rent price to the color field. The visual was formatted for easy dentification of data points.
+
 
 
 ### Summary Page 
 
 ![final](https://github.com/user-attachments/assets/97058740-5efd-4fb5-ab75-92178d84838c)
 
-        Different slicers were made for increased interactivity with the report, an 'Apply all slicers' button and 'Clear all slicers' button was also added to apply 
-        and deselect all selected slicers at the click of a buttton. This is very important to increase visual refresh time and optimize report performance especially during presentations. 
+        Different slicers were made for increased interactivity with the report. An 'Apply all slicers' button 
+        and 'Clear all slicers' button was also added to apply and deselect all selected slicers at the click of a buttton. 
+        This is very important to increase visual refresh time and optimize report performance especially during presentations. 
 
 
 
 ### Conclusion
  This data-driven approach enables Afrinest to:
-
-    Target strategic areas: Pinpoint locations where shared living could significantly reduce housing costs. Optimize property selection: Assist tenants and co-tenants in finding suitable shared accommodations. 
-    Inform marketing strategies: Develop targeted campaigns to promote shared living in specific regions.
-
-
+ #### [1] Target strategic areas: Pinpoint locations where shared living could significantly reduce housing costs.  
+ ####  [2] Optimize property selection: Assist tenants and co-tenants in finding suitable shared accommodations.  
+ #### [3] Inform marketing strategies: Develop targeted campaigns to promote shared living in specific regions.
