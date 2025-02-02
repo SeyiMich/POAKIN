@@ -98,7 +98,7 @@ and implement effective countermeasures.
 
 #### [b] Daily Analysis 
   
-        Over 30 of Autotheft cases happened between 20:00 hr and 23:00hr; 8pm and 11pm.
+         3 out of 10 Autotheft cases happened between 20:00 hr and 23:00hr; 8pm and 11pm.
 
 #### [c] Trend Forecast
   
