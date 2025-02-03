@@ -11,7 +11,7 @@ year-on-year changes, spatial and temporal distribution, and insights into the f
 
 ### Data Processing Steps 
 
-- Step 1 : Searched public datasets; BigQuery & Kaggle, for most relevant dataset. Decided to go with Kaggle as it had the updated info as provided by the Toronto Police Service.
+- Step 1 : Searched public datasets; BigQuery & Kaggle, for most relevant dataset. Decided to go with Kaggle as it had the updated info as provided by the Toronto Police Service. The pbix can be downloaded [here](https://1drv.ms/u/c/9283b4fb94f10f25/EeS8W0K0KmJIh5p_QG8g2-cBxFyoWXxWawGzdX3Jhcp7wQ?e=qHnws4)
 - Step 2 : Loaded data into Power BI Desktop using appropriate connector, dataset is a csv file. Then opened it in Power Query window for the neccesary transformation.
 - Step 3 : Also by default, column profiling is based only on first 1000 rows, I changed the status bar option to "column profiling based on entire dataset" as I knew the dataset had over 50,000 rows.
 - Step 4 : In the power query editor & in view tab under Data preview section, I checked the "column distribution", "column quality" & "column profile" options in order to review the quality of the entries. 
