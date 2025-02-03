@@ -1,6 +1,6 @@
 # Analysis of Auto Theft Cases in Toronto (From 2019 - 2023)
 
-This case study delves into the trends and patterns of auto theft in Toronto from 2019 to 2023 using open data from Kaggle. 
+This case study delves into the trends and patterns of auto theft in Toronto from 2019 to 2023 using open data from [Kaggle](https://www.kaggle.com/datasets/syedabdulshameer/auto-theft).
 
 ### Problem Statement
 
